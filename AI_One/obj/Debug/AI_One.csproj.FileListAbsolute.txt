@@ -1,0 +1,36 @@
+C:\Users\user\Desktop\projectGame\AI_One\AI_One\bin\Debug\AI_One.exe.config
+C:\Users\user\Desktop\projectGame\AI_One\AI_One\obj\Debug\AI_One.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\projectGame\AI_One\AI_One\obj\Debug\AI_One.Properties.Resources.resources
+C:\Users\user\Desktop\projectGame\AI_One\AI_One\obj\Debug\AI_One.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\projectGame\AI_One\AI_One\bin\Debug\AI_One.exe
+C:\Users\user\Desktop\projectGame\AI_One\AI_One\bin\Debug\AI_One.pdb
+C:\Users\user\Desktop\projectGame\AI_One\AI_One\obj\Debug\AI_One.exe
+C:\Users\user\Desktop\projectGame\AI_One\AI_One\obj\Debug\AI_One.pdb
+C:\Users\user\Desktop\projectGame\AI_One\AI_One\obj\Debug\AI_One.Form1.resources
+C:\Users\Андрей\Desktop\Новая папка\AI_One\bin\Debug\AI_One.exe.config
+C:\Users\Андрей\Desktop\Новая папка\AI_One\obj\Debug\AI_One.exe
+C:\Users\Андрей\Desktop\Новая папка\AI_One\obj\Debug\AI_One.pdb
+C:\Users\Андрей\Desktop\Новая папка\AI_One\bin\Debug\AI_One.exe
+C:\Users\Андрей\Desktop\Новая папка\AI_One\bin\Debug\AI_One.pdb
+C:\Users\Андрей\Desktop\Новая папка\AI_One\obj\Debug\AI_One.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Новая папка\AI_One\obj\Debug\AI_One.Form1.resources
+C:\Users\Андрей\Desktop\Новая папка\AI_One\obj\Debug\AI_One.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Новая папка\AI_One\obj\Debug\AI_One.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\AI_One\AI_One\bin\Debug\AI_One.exe.config
+C:\Users\user\Desktop\AI_One\AI_One\obj\Debug\AI_One.exe
+C:\Users\user\Desktop\AI_One\AI_One\obj\Debug\AI_One.pdb
+C:\Users\user\Desktop\AI_One\AI_One\bin\Debug\AI_One.exe
+C:\Users\user\Desktop\AI_One\AI_One\bin\Debug\AI_One.pdb
+C:\Users\user\Desktop\AI_One\AI_One\obj\Debug\AI_One.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\AI_One\AI_One\obj\Debug\AI_One.Form1.resources
+C:\Users\user\Desktop\AI_One\AI_One\obj\Debug\AI_One.Properties.Resources.resources
+C:\Users\user\Desktop\AI_One\AI_One\obj\Debug\AI_One.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\AI_One\AI_One\bin\Debug\AI_One.exe.config
+C:\Users\Андрей\Desktop\AI_One\AI_One\obj\Debug\AI_One.exe
+C:\Users\Андрей\Desktop\AI_One\AI_One\obj\Debug\AI_One.pdb
+C:\Users\Андрей\Desktop\AI_One\AI_One\bin\Debug\AI_One.exe
+C:\Users\Андрей\Desktop\AI_One\AI_One\bin\Debug\AI_One.pdb
+C:\Users\Андрей\Desktop\AI_One\AI_One\obj\Debug\AI_One.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\AI_One\AI_One\obj\Debug\AI_One.Form1.resources
+C:\Users\Андрей\Desktop\AI_One\AI_One\obj\Debug\AI_One.Properties.Resources.resources
+C:\Users\Андрей\Desktop\AI_One\AI_One\obj\Debug\AI_One.csproj.GenerateResource.Cache
